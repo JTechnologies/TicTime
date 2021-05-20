@@ -31,3 +31,9 @@ So May 20th, 2021 would be
 The time is written as  De . T Di C
 
 So 1:31:3 AM would be 1.753 (Maybe. Because of the nature of Tic Time, the time is dependent upon the date.)
+
+## Projects
+### Tic Time Clock
+[Website](https://ttclock.jtechnologies.xyz/) [Repository](https://github.com/jtechnologies/tictimeclock)
+### TTime.JS
+[NPM Package](https://www.npmjs.com/package/ttimejs) [Repository](https://github.com/jtechnologies/ttimejs)
