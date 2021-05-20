@@ -23,14 +23,11 @@ Here are the basic units and their exact measurements in standard time, along wi
 These names are derived from the metric names (Excluding Licotic, where the root Lico- is new root meaning 10,000. This is because there is no official root between Kilo- and Mega-. In this case, we created the root Lico- because L is after K and before M.)
 
 ## Date Format
-The date is written as M . L K
+The date is written as M . L K H
 
-So May 19th, 2021 would be 2021.38
+So May 20th, 2021 would be
 
 ## Time Format
-The time is written as H . De T Di
+The time is written as  De . T Di C
 
 So 1:31:3 AM would be 1.753 (Maybe. Because of the nature of Tic Time, the time is dependent upon the date.)
-
-## Caveats
-
