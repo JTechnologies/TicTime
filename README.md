@@ -25,12 +25,12 @@ These names are derived from the metric names (Excluding Licotic, where the root
 ## Date Format
 The date is written as M . L K H
 
-So May 20th, 2021 would be
+So May 21st, 2021 11:00 am would be 21.387
 
 ## Time Format
 The time is written as  De . T Di C
 
-So 1:31:3 AM would be 1.753 (Maybe. Because of the nature of Tic Time, the time is dependent upon the date.)
+So 1:31:3 AM  could be 1.753 (Maybe. Because of the nature of Tic Time, the time is dependent upon the date.)
 
 ## Projects
 ### Tic Time Clock
